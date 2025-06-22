@@ -1,14 +1,14 @@
 ## 🎲 Ludo Game
 Step into the world of **nostalgia-fueled strategy and excitement** with this **interactive, web-based Ludo game**. Reimagined for the modern browser, this project fuses the timeless fun of Ludo with sleek visuals, **smooth real-time animations, and competitive multiplayer action**. Whether you're in for a casual match with friends or a heated race to home, this game delivers vibrant gameplay that keeps you rolling.
 
-> _No downloads. No sign-ups. Just pure, instant Ludo magic – anytime, anywhere.
+> No downloads. No sign-ups. Just pure, instant Ludo magic – anytime, anywhere.
 
 ---
 
 ## 🎮 About
 Ludo Game is an interactive browser-based version of the beloved board game for 2–4 players. It features realistic dice rolls, animated pawn movement, player turns, and even a smart bot mode (coming soon!) to play against the computer.
 
-> _Roll the dice, move your pawns, cut your rivals, and race to home!
+> Roll the dice, move your pawns, cut your rivals, and race to home!
 
 ---
 
