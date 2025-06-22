@@ -20,6 +20,8 @@ Ludo Game is an interactive browser-based version of the beloved board game for 
 - 💬 **Immersive Experience** – Sound effects and color-coded tokens keep the tension high and turns lively.
 - 🌐 **Browser-Based** – Play directly in your browser, on desktop or tablet – no installations needed.
 
+---
+
 
 ## ✨ Features
 - 🎲 **Interactive Dice Rolls** – Realistic animations and responsive click-to-roll action.
